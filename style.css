@@ -15,3 +15,7 @@ h3 {
 .nav ul li {
   font-weight: 400;
 }
+
+body .img {
+  width: 100%;
+}
