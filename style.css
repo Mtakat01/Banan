@@ -5,6 +5,7 @@ body {
 h1 {
 font-size: 48px;
 color: #7F461B;
+display: flex;
 justify-content: center;
 }
 h2 {
